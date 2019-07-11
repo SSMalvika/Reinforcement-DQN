@@ -9,8 +9,8 @@ plays the Lunar lander game, where the agent (spacecraft) successfully lands on 
 infnite, so an agent can learn to fly and then land on its first attempt. 
 
 ## Predictions and Gameplay for Lunar Lander 
-![](./assets/Lunar_Lander.gif)
+![](./assets/lunar_lander.gif)
 
 
 ## Predictions and Gameplay for Atari Pheonix 
-![](./assets/Atari_Phoenix.gif)
+![](./assets/phoenix.gif)
